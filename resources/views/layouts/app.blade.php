@@ -59,11 +59,11 @@ $(function () {
          <nav class="navbar navbar-default">
              <div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
                   <ul class="nav navbar-nav">
-                    <li @if(Request::path()=='home') class="active"  @endif><a href="{{ url('/home') }}">Home <span class="sr-only">(current)</span></a></li>
-                    <li @if(Request::path()=='search_parts') class="active"  @endif><a href="{{ url('/search_parts') }}">Search Parts</a></li>
-                    <li @if(Request::path()=='news') class="active"  @endif><a href="{{ url('/news') }}">News</a></li>
-                    <li @if(Request::path()=='about') class="active"  @endif><a href="{{ url('/about') }}">About Us</a></li>
-                    <li @if(Request::path()=='contact') class="active"  @endif><a href="{{ url('/contact') }}">Contact Us</a></li>
+                    <li @if(Request::path()=='home') class="active"  @endif><a href="{{ url('/home') }}">首页 <span class="sr-only">(current)</span></a></li>
+                    <li @if(Request::path()=='search_parts') class="active"  @endif><a href="{{ url('/search_parts') }}">搜索配件</a></li>
+                    <li @if(Request::path()=='news') class="active"  @endif><a href="{{ url('/news') }}">新闻</a></li>
+                    <li @if(Request::path()=='about') class="active"  @endif><a href="{{ url('/about') }}">关于我们</a></li>
+                    <li @if(Request::path()=='contact') class="active"  @endif><a href="{{ url('/contact') }}">联系我们</a></li>
                   </ul>
              </div>
           </nav>

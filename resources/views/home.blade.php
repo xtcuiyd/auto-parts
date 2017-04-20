@@ -14,7 +14,7 @@
                   Etiam sit amet massa non nunc tincidunt mattis. Nunc non ex ultricies, tristique leo sed, vehicula mauris. Sed mollis tristique ligula, nec euismod dolor pharetra non.</p>
                  <p>Etiam ante diam, congue sit amet elit placerat, faucibus faucibus ipsum. Vivamus vel laoreet nulla. Aenean id bibendum diam. Donec rutrum mi diam, sed tempus metus luctus a.
                  Nullam vitae quam sed felis mattis facilisis. Nunc magna. Donec eleifend odio non neque semper eleifend. Mauris pharetra venenatis augue.</p>
-                 <a href="/about" class="hvr-bounce-to-bottom">Read More</a>
+                 <a href="/about" class="hvr-bounce-to-bottom">了解更多</a>
              </div>
              <div class="col-md-6 welcome_pic">
                  <h2>Suspendisse massa pellentesque</h2>
